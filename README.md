@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning html & css.
 - 💞️ I’m looking to collaborate on idek, nothin rn.
 - 📫 How to reach me, YOU CANT HAHAHAHA, fn.
-- 😄 Pronouns: ME MAN, seriously though there is only 2 genders.
 - ⚡ Fun fact: I produce music.
 
 <!---
